@@ -1,0 +1,390 @@
+
+.columns-4 .centeredWithinWrapper {
+    width: 960px;
+}
+
+.columns-4 .centeredWithinWrapper.gridWidth {
+    xwidth: 946px;
+    width: 960px;
+}
+
+.centeredWith4Columns {
+    width: 960px;
+    margin: auto;
+}
+
+.centeredWith4Columns.gridWidth {
+    width: 946px;
+}
+
+.App.full .appContent {
+    padding-top: 52px;
+}
+
+.InfoBarBase {
+    height: 28px;
+    line-height: 28px;
+}
+
+.columns-4 .centeredWithinWrapper .dd_detail_switch_tab {
+    height: 44px;
+    line-height: 44px;
+    width: 731px;
+    margin-left: 0;
+    margin-bottom: 14px;
+}
+
+.UserInfoBar.v1 {
+    text-align: left;
+}
+.metaLeft {
+    margin-left: 4px;
+}
+.metaLeft span {
+    margin: 0 2px;
+}
+
+.Header .headerContainer .leftHeaderContent {
+    margin-left: 0px;
+}
+.Header .headerContainer .rightHeaderContent {
+    margin-right: 1px;
+}
+
+
+.Header .logo {
+    left: 50%;
+    margin-left: -52px;
+    margin-top: 16px;
+    position: absolute;
+    top: -7px;
+}
+.logo {
+    width: 104px;
+    height: 26px;
+    background: none;
+    display: inline-block;
+    font-family: Verdana;
+    text-shadow: none;
+    xtext-shadow: 1px 1px 2px gray;
+    color: #434343;
+    text-align: center;
+    xborder: 1px solid red;
+    font-weight: bold;
+}
+.logo {
+    font-size: 20px;
+    padding-top: 12px;
+}
+.dd_logo {
+    xborder: 1px solid black;
+    xheight: 28px;
+}
+
+
+.GridFooter .gridLoading,
+.GridFooter .gridLoading .gridFooterLogoIcon {
+    background: none;
+}
+
+
+
+
+
+
+
+.columns-4 .centeredWithinWrapper {
+    xborder: 1px solid red;
+}
+
+.UserNews {
+    width: 190px;
+}
+
+.GridFooter {
+    margin-top: 0;
+
+}
+
+.UserSettingsPage .tocAndFormWrapper .standardForm {
+    margin: 0;
+    padding-bottom: 0;
+}
+
+.standardForm, .loginForm, .trademarkForm {
+    margin: 0 ;
+}
+.standardForm, .loginForm, .trademarkForm {
+    width: 732px;
+}
+.standardForm>ul>li>div, .loginForm>ul>li>div, .trademarkForm>ul>li>div {
+    margin-left: 200px;
+}
+.standardForm>ul>li>h3, .loginForm>ul>li>h3, .trademarkForm>ul>li>h3 {
+    width: 180px;
+}
+
+
+
+
+.UserSettingsPage .tocAndFormWrapper .standardForm_setting {
+    margin: 10px 0 0 247px;
+    xpadding-bottom: 53px;
+}
+
+.UserSettingsPage .tocAndFormWrapper_setting {
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.UserSettingsPage .tocAndFormWrapper_setting .formFooter {
+    width: 674px;
+}
+
+.UserEdit.full_page {
+    width: 713px;
+}
+
+.UserSettingsPage .tocAndFormWrapper ul.toc {
+    xleft: 359px;
+    xtop: 91px;
+    position: absolute;
+    xmargin: 10px 0 0 0;
+
+}
+
+
+.UserSettingsPage .standardForm_setting ul li.header {
+    background-color: #f0f0f0;
+    xborder-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    xbackground-color: red;
+}
+
+
+.standardForm_setting  {
+    width: 713px;
+}
+
+.dd_list_main {
+
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    width: 744px;
+    height: 800px;
+    xborder: 1px solid green;
+
+    padding: 8px 0;
+
+}
+
+.dd_list_main {
+
+    position: relative;
+    overflow: auto;
+    xborder: 1px solid green;
+    height: auto;
+
+}
+
+.dd_list_separator_line {
+
+    position: absolute;
+    right: 206px;
+    top: 12px;
+
+    width: 2px;
+    xheight: 800px;
+    xheight: 100%;
+    height: 96%;
+    xborder-left: 1px solid #dedede;
+    xborder-left: 1px solid red;
+
+    padding: 8px 0;
+
+    border: solid rgba(0, 0, 0, 0.1);
+    border-width: 0 0 0 1px;
+
+}
+
+.dd_list_sidebar {
+
+    position: absolute;
+    right: 0;
+    top: 0;
+
+    width: 200px;
+    height: 800px;
+    xborder: 1px solid blue;
+
+    padding: 8px 0;
+
+}
+
+.dd_list_main div.item {
+
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 24px;
+
+
+}
+
+.dd_side_bar {
+
+    float: right;
+    width: 192px;
+    xborder:1px solid black;
+
+}
+
+
+
+
+
+
+
+
+
+.standardForm ul li .cart-module {
+    margin: 0;
+    color: #717171;
+}
+
+.standardForm ul li  .cart-payment {
+    float: left
+}
+
+.standardForm ul li .cart-table {
+    margin: 0;
+    color: #717171;
+    border: 0;
+}
+
+.standardForm ul li .cgroup-item {
+    xline-height: 22px;
+}
+
+.standardForm ul li .cdish-qty {
+    width: 24px;
+    position: relative;
+    z-index: 1;
+    margin: 0 -1px;
+    padding: 3px 0;
+    border-radius: 0;
+    font-size: 12px;
+    color: #666;
+    background-color: white;
+    background-image: none;
+}
+
+.standardForm ul li .cart-group {
+    padding: 0;
+}
+
+.standardForm ul li,
+.standardForm ul li div,
+.standardForm ul li span,
+.standardForm ul li div
+{
+
+    color: #717171;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul.dd_order_list_container {
+
+    overflow: auto;
+}
+
+ul.dd_order_list_container li.dd_list_one {
+    position: relative;
+    xborder: 1px solid blue;
+    overflow: auto;
+}
+
+ul.dd_order_list_container li.dd_list_one div {
+    margin:0;
+    xborder:1px solid red;
+    width: 88px;
+    position: relative;
+    xxtop:0;
+    float: left;
+}
+ul.dd_order_list_container li.dd_list_one div.item_pics {
+    margin:0;
+    width: 350px;
+}
+ul.dd_order_list_container li.dd_list_one div.item_amount {
+    width: 64px;
+    text-align: center;
+    padding-top: 4px;
+    font-weight: bold;
+}
+ul.dd_order_list_container li.dd_list_one div.item_status {
+    width: 128px;
+    text-align: center;
+    padding-top: 4px;
+}
+ul.dd_order_list_container li.dd_list_one div.item_op {
+    width: 100px;
+    text-align: center;
+    padding-top: 4px;
+}
+ul.dd_order_list_container li.dd_list_one img.item {
+    width: 75px;
+    border-radius: 3px;
+    border: 1px solid #d0d0d0;
+    margin: 3px 3px 3px 0;
+
+}
+
+ul.dd_order_list_container li.dd_list_one  .Button.btn {
+
+    padding: 4px 12px;
+
+}
+
+ul.dd_order_list_container li.dd_list_one div.item_name {
+}
+
+ul.dd_order_list_container li.dd_list_one div.item_price {
+}
+
+ul.dd_order_list_container li.dd_list_one div.item_qty {
+}
+
+.UserSettingsPage .standardForm_setting ul.dd_order_list_container li.column_name {
+    padding: 8px 30px;
+
+}
+ul.dd_order_list_container li.column_name div {
+    font-weight: bold;
+}
+
+ul.dd_order_list_container li.column_name div.item_pics {
+    padding-top: 4px;
+}
+
